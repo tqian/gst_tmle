@@ -24,18 +24,12 @@ The simulation depends on a data set that consists of 100 patients data from MIS
 
 This file collects output from the above parallelized main_simtrial.R, and computes quantities for the following tables in the paper: Table 3, Table 4, Table D.2, Table E.1, Table E.2.
 
-### Run "make plot - GST_TMLE paper.R"
+### 3. Run "make plot - GST_TMLE paper.R"
 
 This file makes the figures in the paper: Figure 1, Figure 2, Figure G.1, Figure G.2.
 
 
 ## Structure of the code
-
-### 1. For a specified config file, simulate standard group sequential trials to get test statistics at each stage.
-
-### 2. Use error spending boundaries to test for the trial, and outputs: Type I error, power, expected sample size, expected duration of the simulated trials.
-
-## Code structure:
 
 * auxiliary_code_construct_generative_model/: auxiliary code that was used to find tuning parameters for the generative model (a.k.a. DGM, data generating mechanism)
 
