@@ -1,7 +1,3 @@
-# gst_tmle
-Github repo for paper of group sequential design with TMLE
-
-
 # Github repo for paper "Improving Power  through Adjustment for Prognostic Variables in Group Sequential Trial Designs: Impact of Baseline Variables, Short-Term Outcomes, and Treatment Effect Heterogeneity"
 
 (a.k.a. Group Sequential Design with TMLE)
