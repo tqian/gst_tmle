@@ -1,0 +1,24 @@
+enrollrate = 140, e = 0.1475
+
+TMLE, non: 336, power = 0.79876
+
+TMLE, exL: 340, power = 0.8036
+
+TMLE, exW: 442, power = 0.79888 (left 436, right 448)
+
+TMLE, exWL: 436, power = 0.79718 (left 410, right 460)
+
+unadj: 460, power = 0.7999, (left 400, right 500)
+
+
+e = 0.1422, nonbinding, rho = 4
+
+unadj: 434, power = 0.80152
+
+non: 320, power = 0.80006
+
+exL: 318, power = 0.79962
+
+exW: 424, power = 0.80392
+
+exWL: 420, power = 0.79942

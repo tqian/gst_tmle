@@ -1,0 +1,3 @@
+enrollrate = 140.
+
+TMLE, non: 336, power = 0.79876
