@@ -22,7 +22,7 @@ This file collects output from the above parallelized main_simtrial.R, and compu
 
 ### 3. Run "make plot - GST_TMLE paper.R"
 
-This file makes the figures in the paper: Figure 1, Figure 2, Figure F.1, Figure F .2.
+This file makes the figures in the paper: Figure 1, Figure 2, Figure F.1, Figure F.2.
 
 ## To reproduce "ARE from theory" in Table 3, Table G.1, Table G.2:
 
