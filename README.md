@@ -18,11 +18,15 @@ The simulation depends on a data set that consists of 100 patients data from MIS
 
 ### 2. Run "main_make_table.R"
 
-This file collects output from the above parallelized main_simtrial.R, and computes quantities for the following tables in the paper: Table 3, Table 4, Table D.2, Table E.1, Table E.2.
+This file collects output from the above parallelized main_simtrial.R, and computes quantities for the following tables in the paper: Table 3, Table 4, Table D.2, Table G.2, Table G.3.
 
 ### 3. Run "make plot - GST_TMLE paper.R"
 
-This file makes the figures in the paper: Figure 1, Figure 2, Figure G.1, Figure G.2.
+This file makes the figures in the paper: Figure 1, Figure 2, Figure F.1, Figure F .2.
+
+## To reproduce "ARE from theory" in Table 3, Table G.1, Table G.2:
+
+Run main_calculate_RE_from_dgm.R.
 
 
 ## Structure of the code
